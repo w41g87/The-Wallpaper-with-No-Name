@@ -1,0 +1,26 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "[The original framerate is 30fps, but you can run as low as 10fps with minimal impact to the viewing experience]\r\n\r\nShamelessly stolen from [url=https://www.youtube.com/watch?v=7GJn_B94JI4]here[/url]. If you are interested please checkout the original video as well as the [url=https://twitter.com/Haru57928031]original illustrator[/url].\r\n\r\nThis has probably been one of my more elaborate projects, so there might be a bug or two lying somewhere. If you spot any please let me know.\r\n\r\nSome animations might be missing for Admin because it would be a pain to roto. Apparently you can buy the special edition which comes with the original illustrations, but only before 01/31/2022. If you can provides any original illustration frames please let me know.\r\n\r\nI am also hoping to add the original background music so please let me know if there is any lead.\r\n\r\nI am not sure if I will make another version of this for the next video(s) in the series, but I hope you enjoy this one for now.",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.8313725490196079 0.3176470588235294 0.5411764705882353"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Anime" ],
+	"title" : "名前のないゲーム / The Video Game with No Name",
+	"type" : "web",
+	"version" : 3,
+	"visibility" : "public",
+	"workshopid" : "2933305096",
+	"workshopurl" : "steam://url/CommunityFilePage/2933305096"
+}
